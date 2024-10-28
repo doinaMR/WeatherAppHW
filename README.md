@@ -1,10 +1,10 @@
-# itschool-weather-app
+# Weather App - Forecast for 5 days
 
 Project 2 from my web development course @ IT School, including exercise solutions.
 
 ## Demo
 
-The project is deployed on [fabulous-tarsier-1a24fb.netlify.app](https://fabulous-tarsier-1a24fb.netlify.app/).
+The project is deployed on [forecast-5d-weather-app.netlify.app](https://forecast-5d-weather-app.netlify.app/).
 
 ## Main features
 
